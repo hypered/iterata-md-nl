@@ -5,6 +5,6 @@ the content of the Belgian Official Journal web site. This Git repository
 contains the Dutch texts as Markdown files, generated from `iterata-src-nl`.
 The French ones are in `iterata-md`, which describes the format.
 
-This repository contains 3953 legislative texts.
+This repository contains 3955 legislative texts.
 
 Last updated: 2026-11-24.
